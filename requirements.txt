@@ -1,0 +1,7 @@
+torch==2.0.1+cu118
+torchvision==0.15.2+cu118
+cudatoolkit==11.8.0
+timm==0.9.12
+numpy==2.0.2
+tqdm==4.66.1
+einops>=0.6.1
